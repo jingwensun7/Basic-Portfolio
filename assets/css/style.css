@@ -135,6 +135,28 @@ input[type=submit]:hover {
     background-color: #777777;
   }
 
+#portfolio {
+    margin: 30px;
+    width: 960px;
+
+}
+
+#desc{
+   background: #4aaaa5;
+   position: relative;
+   bottom: 70px;
+   padding: 20px;
+   width: 250px;
+   color: #ffffff;
+}
+
+#portfolio:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
 footer {
     border-top: 8px solid #4aaaa5;
     clear: both;
