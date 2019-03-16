@@ -28,7 +28,7 @@ header {
     color: #777777;
     position: relative;
     bottom: 20px;
-    right: 115px;
+    right: 80px;
     padding: 0;
     width: 30%;
     text-align: center;
@@ -74,7 +74,7 @@ header {
     margin: 0 auto;
     position: relative;
     bottom: 50px;
-    left: 200px;
+    left: 150px;
 }
 
 .main {
@@ -142,6 +142,4 @@ footer {
     padding: 30px;
     text-align: center;
     font-size: 8px;
-    position: sticky;
-    bottom: 0px;
 }
